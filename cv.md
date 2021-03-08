@@ -3,7 +3,7 @@
 ## Contacts:
 Email: yuri_tes@mail.ru
 
-telephone: +79177277008
+Telephone: +79177277008
 
 Telegram: https://t.me/karamba_vlz
 
