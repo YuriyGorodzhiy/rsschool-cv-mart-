@@ -1,3 +1,2 @@
 # rsschool-cv
-
-https://YuriyGorodzhi.github.io/rsschool-cv/cv
+https://YuriyGorodzhiy.github.io/rsschool-cv/cv
